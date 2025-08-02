@@ -6,3 +6,4 @@ Day 1 - Numpy :
 
 
 Day 2 - Pandas :
+https://colab.research.google.com/drive/1mJmCEuJk6a_8tDTqTm83XPocUjCQPs98?usp=sharing
