@@ -13,7 +13,7 @@ Day 3 -
 - Pandas (Part-2) :
 https://colab.research.google.com/drive/1PmSxZfhY8VS09nWFjsNVRLELco_W7SP5?usp=sharing
 
-- Matplotlib :
+- Matplotlib (Part-1) :
 https://colab.research.google.com/drive/1_FMyeBMY3X-d3Lpj63GNpQ31tpSBgM8L?usp=sharing
 
 
