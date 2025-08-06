@@ -26,4 +26,7 @@ https://colab.research.google.com/drive/1fkCKYAGRFUe-aRWK7kp5F54gVXL0RGzV?usp=sh
 
 
 ASSESSMENT -
-https://colab.research.google.com/drive/1KXcauiUm9oLUHazMm43tMuNnBYVHZnjT?usp=sharing
+- NumPy: https://colab.research.google.com/drive/1KXcauiUm9oLUHazMm43tMuNnBYVHZnjT?usp=sharing
+- Pandas:
+- Matplotlib:
+- Seaborn:
