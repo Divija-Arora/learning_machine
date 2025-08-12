@@ -34,6 +34,6 @@ ASSESSMENT -
 
 Day 5 - Statistics (Done on Notebook)
 - Measures of Central Tendancy - Mean, Median, Mode
-- Meausres of Variability -     Range, Variance, Standard Deviation, IQR
-- Graphical Representation
-- Interferential
+- Meausres of Variability - Range, Variance, Standard Deviation, IQR
+- Graphical Representation - All Plots
+- Interferential - Probability Distribution, Hypothesis Testing, Regression Analysis, Confidence Interval
