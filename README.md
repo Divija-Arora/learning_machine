@@ -32,4 +32,4 @@ ASSESSMENT -
 - Seaborn : https://colab.research.google.com/drive/18ELv1xQs9Y5pbjE4I0Mq_E10JFFqh9jS?usp=sharing
 
 
-Day 5 - 
+Day 5 - Statistics (Done on Notebook)
