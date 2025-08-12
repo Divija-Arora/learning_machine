@@ -35,3 +35,5 @@ ASSESSMENT -
 Day 5 - Statistics (Done on Notebook)
 - Measures of Central Tendancy
 - Meausres of Variability
+- Graphical Representation
+- Interferential
