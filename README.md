@@ -40,7 +40,7 @@ Day 5 - Statistics (Done on Notebook)
 
 
 Day 7 - Statistics (Done on Notebook) Continued
-- Interferential - Probability Distribution
+- Interferential - Probability Distribution - Conditional Probability, Bayes Theorem, Rules, Complementary Probability, Sample Space etc.
 
 
 Day 7 - Statistics (Done on Notebook) Continued
