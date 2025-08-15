@@ -38,5 +38,10 @@ Day 5 - Statistics (Done on Notebook)
 - Graphical Representation - All Plots
 - Interferential - Probability Distribution, Hypothesis Testing, Regression Analysis, Confidence Interval
 
-Day 6 - Statistics (Done on Notebook) Continued
+
+Day 7 - Statistics (Done on Notebook) Continued
+- Interferential - Probability Distribution
+
+
+Day 7 - Statistics (Done on Notebook) Continued
 - Interferential - Hypothesis Testing, Regression Analysis, Confidence Interval
