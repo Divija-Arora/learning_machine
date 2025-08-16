@@ -45,3 +45,6 @@ Day 6 - Statistics (Done on Notebook) Continued
 
 Day 7 - Statistics (Done on Notebook) Continued
 - Interferential - Hypothesis Testing, Regression Analysis, Confidence Interval
+
+
+Day 8 - Features Engineering
