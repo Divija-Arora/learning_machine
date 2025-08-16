@@ -49,3 +49,4 @@ Day 7 - Statistics (Done on Notebook) Continued
 
 Day 8 - Features Engineering
 - Colab - https://colab.research.google.com/drive/1Nqkj84dTdImtAPtPkuLw_qmITd3w9hCy?usp=sharing
+- Done on Notebook
